@@ -1,5 +1,5 @@
 # babyShell
-This is a mini project from Duke 551: Programming and Algorithm in C/C++. For this program, you can run a shell that performs basic linux shell tasks, including custom cd, set, export, exit commands.
+For this program, you can run a shell that performs basic linux shell tasks, including custom cd, set, export, exit commands.
 
 ## To use this shell:
 ```
